@@ -1,6 +1,6 @@
 # Blazor-webapp-iframe
 
-A minimal demo showing how to embed an external URL inside an iframe in a Blazor WebApp (Server + WebAssembly).
+A minimal demo showing how to embed an external URL inside an iframe in a Blazor Web App.
 
 ## Overview
 
@@ -20,8 +20,6 @@ Each app includes a sample `Home.razor` page that shows a basic iframe embed. Th
 - [VS Code](https://code.visualstudio.com/)
 
 ## Getting started
-
-Follow one of the options below to run the examples locally.
 
 ### Clone the repository
 
@@ -48,6 +46,5 @@ dotnet run
 
 ## References
 
-- Blazor documentation: https://docs.microsoft.com/aspnet/core/blazor
-
-- Blazor iframe usage (FAQ / example): https://www.syncfusion.com/faq/blazor/general/how-do-i-embed-a-url-inside-an-iframe-in-a-blazor-application
+- Documentation: https://blazor.syncfusion.com/documentation/rich-text-editor/iframe
+- HTML iframe Element: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/iframe
